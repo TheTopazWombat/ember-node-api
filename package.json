@@ -1,0 +1,24 @@
+{
+  "name": "ember-node-api",
+  "version": "1.0.0",
+  "description": "Still needs to be connected to ember app, but since that's been having issues I'm uploading this.",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "serve-favicon": "^2.4.5"
+  }
+}

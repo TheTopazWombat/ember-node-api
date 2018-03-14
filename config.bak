@@ -1,0 +1,7 @@
+module.exports = {
+    user: 'user',
+    password: 'somepassword',
+    database: 'excellent_db',
+    host: 'http://0.0.0.0.1',
+    secret: 'boy I ate too much pizza for lunch',
+};
